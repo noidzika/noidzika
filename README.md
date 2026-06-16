@@ -23,7 +23,7 @@ Me chamo Ulisses Daniel Teixeira de Oliveira, tenho 26 anos e sou natural de Sã
         alt="GitHub Stats" 
         height="200" 
         style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=noidzika&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" 
+        src="https://github-readme-stats.vercel.app/api?username=noidzika&show_icons=true&theme=tokyonight&locale=pt-br&rank_icon=github&include_all_commits=true" 
     />
     <img 
         align="left" 
