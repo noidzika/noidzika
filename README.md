@@ -10,7 +10,8 @@ Me chamo Ulisses Daniel Teixeira de Oliveira, tenho 26 anos e sou natural de Sã
 <br>
 <p align="left">
   <a href="https://github.com/noidzika">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,androidstudio,kotlin"/> 
+    <img src="https://cdn.simpleicons.org/jetpackcompose" width="48" height="48"/>
   </a>
 </p>
 <br/>
